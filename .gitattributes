@@ -1,5 +1,5 @@
 * text=auto !eol
-/basics.metadix -text
+/basics.dix -text
 /generator.rb -text
 /test_generator.rb -text
 vblex/a-ai -text
