@@ -2,6 +2,7 @@
 /basics.dix -text
 /generator.rb -text
 /test_generator.rb -text
+vblex/-esch -text
 vblex/a-ai -text
 vblex/a-au -text
 vblex/a-o -text
