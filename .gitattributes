@@ -15,10 +15,12 @@ gri/vblex/u-ieu -text
 gri/vblex/u-o -text
 gri/vblex/ua-uau -text
 gri/vblex/ua-uo -text
+sur/analyze -text
 sur/basics.dix -text
 sur/generator.rb -text
 sur/irregular -text
 sur/irregular.dix -text
+sur/test_proc.rb -text
 sur/vblex/a-au -text
 sur/vblex/a-ei -text
 sur/vblex/a-ia -text
@@ -37,3 +39,4 @@ sur/vblex/u-ie -text
 sur/vblex/u-o -text
 sur/vblex/u-uo -text
 /test_generator.rb -text
+/test_proc.rb -text
