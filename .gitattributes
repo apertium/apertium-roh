@@ -14,4 +14,5 @@ gri/vblex/u-ieu -text
 gri/vblex/u-o -text
 gri/vblex/ua-uau -text
 gri/vblex/ua-uo -text
+sur/vblex/complex -text
 /test_generator.rb -text
