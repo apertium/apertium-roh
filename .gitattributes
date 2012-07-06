@@ -14,6 +14,9 @@ gri/vblex/u-ieu -text
 gri/vblex/u-o -text
 gri/vblex/ua-uau -text
 gri/vblex/ua-uo -text
+sur/basics.dix -text
+sur/generator.rb -text
+sur/irregular -text
 sur/vblex/a-au -text
 sur/vblex/a-ei -text
 sur/vblex/a-ia -text
@@ -26,6 +29,7 @@ sur/vblex/e-ia -text
 sur/vblex/i-ai -text
 sur/vblex/i-e -text
 sur/vblex/i-ei -text
+sur/vblex/simple -text
 sur/vblex/u-au -text
 sur/vblex/u-ie -text
 sur/vblex/u-o -text
