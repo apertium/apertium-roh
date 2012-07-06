@@ -1,2 +1,17 @@
 * text=auto !eol
 /basics.metadix -text
+/generator.rb -text
+/test_generator.rb -text
+vblex/a -text
+vblex/a-ai -text
+vblex/a-au -text
+vblex/a-o -text
+vblex/ai -text
+vblex/e -text
+vblex/e-ai -text
+vblex/i -text
+vblex/u-au -text
+vblex/u-o -text
+vblex/ua-ieu -text
+vblex/ua-uau -text
+vblex/ua-uo -text
