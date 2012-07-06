@@ -3,6 +3,7 @@
 gri/basics.dix -text
 gri/generator.rb -text
 gri/irregular -text
+gri/irregular.dix -text
 gri/vblex/-esch -text
 gri/vblex/a-ai -text
 gri/vblex/a-au -text
@@ -17,6 +18,7 @@ gri/vblex/ua-uo -text
 sur/basics.dix -text
 sur/generator.rb -text
 sur/irregular -text
+sur/irregular.dix -text
 sur/vblex/a-au -text
 sur/vblex/a-ei -text
 sur/vblex/a-ia -text
