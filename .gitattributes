@@ -41,3 +41,11 @@ sur/vblex/u-o -text
 sur/vblex/u-uo -text
 /test_generator.rb -text
 /test_proc.rb -text
+val/vblex/a-ai -text
+val/vblex/complex -text
+val/vblex/e-ai -text
+val/vblex/e-ei -text
+val/vblex/o-ou -text
+val/vblex/u-o -text
+val/vblex/u-ou -text
+val/vblex/u-uo -text
