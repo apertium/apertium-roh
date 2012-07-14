@@ -1,9 +1,12 @@
 * text=auto !eol
 /generator.rb -text
+gri/analyze -text
 gri/basics.dix -text
+gri/generate -text
 gri/generator.rb -text
 gri/irregular -text
 gri/irregular.dix -text
+gri/test_proc.rb -text
 gri/vblex/-esch -text
 gri/vblex/a-ai -text
 gri/vblex/a-au -text
